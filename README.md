@@ -1,5 +1,5 @@
 # BabyHealthChecker 👶🩺　
-by Misuzu Taniguchi (A01367008)
+by Misuzu Taniguchi
 
 A simple Android app build with Jetpack Compose to help parents to track baby health data -- with a particular
 focus on **stool tracking** and **food allergy info**.
